@@ -1,4 +1,4 @@
-module github.com/ontio/ontology
+module github.com/Krestol/OnyxChain
 
 go 1.12
 
